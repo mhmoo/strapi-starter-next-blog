@@ -1,6 +1,6 @@
 {
-  "name": "Strapi",
-  "description": "Strapi Heroku deployment",
+  "name": "Strapi Backend",
+  "description": "Strapi Heroku deployment Course",
   "keywords": ["strapi", "heroku"],
   "repository": "https://github.com/strapi/strapi-starter-next-blog",
   "env": {
